@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExemploMediaPlayer</string>
+    <string name="btP1">Áudio 1</string>
+    <string name="btP2">Áudio 2</string>
+</resources>
